@@ -77,8 +77,8 @@ This repository contains the solutions and algorithmic analysis for the 2024 ass
 * **Complexity Analysis:** Big O Notation.
 * **Pseudocode Representation.**
 
-## 📂 Project Structure
-* `Problem_1/`: Connectivity and Dijkstra implementation.
-* `Problem_2/`: Greedy scheduling and sorting analysis.
-* `Problem_3/`: DP matrix optimization for string cuts.
-* `Docs/`: Detailed assignment report (PDF).
+## 📂 Repository Content
+* 📄 `ADA_Assignment_2024.pdf`: The complete technical report containing analytical solutions, proofs, and pseudocode for all problems.
+
+---
+*Developed as part of the "Analysis and Design of Algorithms" course at the Electrical and Computer Engineering Department, AUTh.*
